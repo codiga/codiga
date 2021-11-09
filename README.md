@@ -17,7 +17,9 @@ You can join our Slack community using [this invite link](https://join.slack.com
 
 ## Report an issue
 
-You can report an issue using the [GitHub issue tracker](https://github.com/codiga/codiga/issues)
+You can report an issue using the [GitHub issue tracker](https://github.com/codiga/codiga/issues).
+
+If you would like to report a critical issue or contact us privately, please use the email hello@codiga.io.
 
 ## Information
 
