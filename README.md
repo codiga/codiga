@@ -6,8 +6,12 @@ Codiga mission is to help developers write better code, faster. This repository 
 
 ### Coding Assistant
 
+The Codiga Coding Assistant helps users define and import safe and reusable blocks of code. The platform is currently in beta and is available for IntelliJ and VS Code.
 
-### Automated Pull Request
+
+### Automated Code Reviews
+
+The automated code reviews works on GitHub, GitLab and Bitbucket. It flags any code violation in your code changes.
 
 
 ## Join our Community
@@ -27,3 +31,4 @@ If you would like to report a critical issue or contact us privately, please use
  - [Codiga Platform](https://frontend.codiga.io)
  - [Documentation](https://doc.codiga.io)
  - [Slack Community](https://join.slack.com/t/codeinspector/shared_invite/enQtNzQ0MTk0OTIxNTU4LWY0MTUxNTE3MDY0M2MyZmE0ODFhNTkwN2JmNjliMzYxMDc1MDA2MmVjMzE3ZWU0ZTY5NzBjMjExZWNhMTIzN2Q)
+ - [Youtube channel](https://www.youtube.com/channel/UCbJIY9DBVajfTcRmhWgErqg)
