@@ -23,5 +23,7 @@ If you would like to report a critical issue or contact us privately, please use
 
 ## Information
 
- - [codiga.io](https://www.codiga.io)
+ - [Main website (codiga.io)](https://www.codiga.io)
+ - [Codiga Platform](https://frontend.codiga.io)
+ - [Documentation](https://doc.codiga.io)
  - [Slack Community](https://join.slack.com/t/codeinspector/shared_invite/enQtNzQ0MTk0OTIxNTU4LWY0MTUxNTE3MDY0M2MyZmE0ODFhNTkwN2JmNjliMzYxMDc1MDA2MmVjMzE3ZWU0ZTY5NzBjMjExZWNhMTIzN2Q)
