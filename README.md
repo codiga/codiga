@@ -1,3 +1,6 @@
+[Datadog acquired Codiga](https://www.codiga.io/blog/codiga-joins-datadog/). This repository is no longer active.
+
+
 # Codiga
 
 Codiga mission is to help developers write better code, faster. This repository is a placeholder that contains information about the project and is a placeholder for bugreports and general information about the product.
